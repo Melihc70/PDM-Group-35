@@ -1,9 +1,9 @@
 # PDM-Group-35
 
 <h2>Student names and numbers</h2>
-Ruben Gauthier-Lafaye: XXXXXXX
-Melihcan Balasar: 5522889
-Twan Kok: XXXXXXX
+Ruben Gauthier-Lafaye: XXXXXXX \
+Melihcan Balasar: 5522889 \
+Twan Kok: XXXXXXXX \
 Christiaan Peppelman: XXXXXXX
 
 <h2>Description</h2>
