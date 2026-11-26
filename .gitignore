@@ -1,3 +1,4 @@
+.pixi/
 .venv/
 __pycache__/
 *.pyc
